@@ -1,0 +1,100 @@
+body{
+background-image: url(download.jfif);
+
+
+}
+
+
+
+.us{
+margin-right: 50px;
+margin-top: 30px;
+
+	height: 440px;
+	width: 300px;
+	background-color: #888888;
+	background-repeat: no-repeat;
+	background-size: cover;
+margin-left: 500px;
+border-radius: 5px;
+border: black 1px solid;
+box-shadow: 5px 10px #00000034
+
+}
+
+.am{
+height: 100px;
+width: 100px;
+padding-left: 100px;
+padding-top: 10px;
+}
+
+.v{
+	
+	text-align: center;
+	
+
+
+}
+
+
+pre{
+ font-size: 25px;
+ font-weight: bold;
+
+text-align: center;
+
+}
+
+.s{
+
+
+	text-align: center;
+}
+.m{
+
+	height: 40px;
+	width: 108px;
+	margin-left: 100px;
+	margin-top: 20px;
+	background-color: rgb(6, 65, 85);
+color: rgb(238, 236, 236);
+}
+.cl{
+border: solid 1px black;
+height: 25px;
+
+}
+
+.Usa{
+height: 100px;
+width: 280px;
+padding-left: 510px;
+
+}
+
+hr{
+	width: 200px;
+	border-top: black solid 1px;
+}
+
+
+h1{
+font-size: 15px;
+text-align: center;
+
+
+}
+
+p{
+	text-align: center;
+	color: white;
+	font-style: italic;
+	padding-top: 20px;
+	padding-right: 20px;
+	font-size: small;
+}
+
+.face{
+margin-left: 630px;
+}
